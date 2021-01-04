@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <title>Basic template for an HTML page</title>
-    <script src="js/scripts.js"></script>
-    <link rel="stylesheet" href="css/styles.css">
-  </head>
-    <body>
-    <h1>Example header</h1>
-    <h2>A smaller example</h2>
-
-    <p>Paragraph content</p>
-  </body>
-</html>
+<p>This is my first web page!</p>
+<p>Isn't it nice?</p>
+<p>
+  This is a lot of text which means it spans multiple lines. When text spans multiple lines like this, it's much easier to read out code if we indent the multiple lines of text within our paragraphs tags. In other words, we add a p tag, have a line break and indent, and then add our text.
+</p>
